@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashirwad Baniyal</h1>
 <h3 align="center">Learning React and AI while building cool things along the way.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirwad-baniyal&label=Profile%20views&color=0e75b6&style=flat" alt="ashirwad-baniyal" /> </p>
 
 - 📫 How to reach me **ashirwadbaniyal789@gmail.com**
 
